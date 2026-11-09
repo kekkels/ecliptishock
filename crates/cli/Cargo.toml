@@ -1,0 +1,11 @@
+[package]
+name = "ecliptishock"
+version = "0.1.0"
+edition = "2021"
+description = "Command-line front end for ecliptishock-core"
+
+[dependencies]
+ecliptishock-core = { path = "../core" }
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "time", "sync", "io-util", "io-std", "signal"] }
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"

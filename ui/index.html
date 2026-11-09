@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ecliptishock</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <h1>Ecliptishock</h1>
+      <span id="pill" class="pill">starting…</span>
+    </div>
+    <div class="toggles">
+      <label class="switch" title="Your damage and deaths shock every enabled target"><input type="checkbox" id="t-shared"><span>Shared fate</span></label>
+      <label class="switch" title="Show what would be sent, but send nothing"><input type="checkbox" id="t-dry"><span>Dry run</span></label>
+      <label class="switch" title="Drop events instead of sending them"><input type="checkbox" id="t-paused"><span>Paused</span></label>
+    </div>
+  </header>
+
+  <nav id="tabs">
+    <button data-tab="live" class="on">Live</button>
+    <button data-tab="tiers">Tiers</button>
+    <button data-tab="damage">Damage</button>
+    <button data-tab="targets">Targets</button>
+    <button data-tab="advanced">Advanced</button>
+  </nav>
+
+  <main>
+    <section data-panel="live">
+      <div class="grid" id="statusGrid">
+        <div><span class="k">Log file</span><span id="st-file" class="v">–</span></div>
+        <div><span class="k">Fight</span><span id="st-fight" class="v">–</span></div>
+        <div><span class="k">Active targets</span><span id="st-targets" class="v">–</span></div>
+        <div><span class="k">Mode</span><span id="st-mode" class="v">–</span></div>
+      </div>
+      <div id="st-error" class="banner warn" hidden></div>
+      <div class="feedhead"><h2>Live feed</h2><button id="clear" class="ghost">Clear</button></div>
+      <ul id="feed" class="feed"></ul>
+    </section>
+    <section data-panel="tiers" hidden></section>
+    <section data-panel="damage" hidden></section>
+    <section data-panel="targets" hidden></section>
+    <section data-panel="advanced" hidden></section>
+  </main>
+
+  <footer id="savebar">
+    <span id="dirtyMsg">All changes saved</span>
+    <span class="spacer"></span>
+    <button id="revert" class="ghost" disabled>Revert</button>
+    <button id="save" class="primary" disabled>Save &amp; apply</button>
+  </footer>
+  <div id="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

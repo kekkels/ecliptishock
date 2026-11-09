@@ -1,0 +1,19 @@
+[package]
+name = "ecliptishock-app"
+version = "0.1.0"
+edition = "2021"
+description = "Ecliptishock desktop app (Tauri): settings UI and live feed around ecliptishock-core"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = ["tray-icon"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ecliptishock-core = { path = "../crates/core" }
+
+[features]
+# `cargo tauri build` turns this on for you. For a plain `cargo build --release`, pass
+# --features custom-protocol or the window tries to load a dev server instead of ../ui.
+custom-protocol = ["tauri/custom-protocol"]

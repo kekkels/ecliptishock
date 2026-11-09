@@ -1,0 +1,1435 @@
+2026.11.06 09:32:23 Debug      -  ECLIPTICA - now fighting boss: Mephiel(Clone) on phase: 0.8003212
+2026.11.06 09:33:09 Debug      -  ECLIPTICA - now fighting boss: MephielPhase2(Clone) on phase: 0.8003212
+2026.11.06 09:33:10 Debug      -  ECLIPTICA - now fighting boss: MephielPhase2(Clone) on phase: 0.8003212
+2026.11.06 09:36:23 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 09:42:21 Debug      -  ECLIPTICA - now in stage: Stage_LostElysia on phase: 0.8894554 as class: Spellsword
+2026.11.06 09:42:48 Debug      -  damage has been taken: 14, from source: projectile1Aimed
+2026.11.06 09:42:49 Debug      -  damage has been taken: 14, from source: projectile2Aimed
+2026.11.06 09:42:52 Debug      -  damage has been taken: 29, from source: projectile1Aimed
+2026.11.06 09:42:52 Debug      -  damage has been taken: 29, from source: projectile2Aimed
+2026.11.06 09:42:54 Debug      -  damage has been taken: 33, from source: (Big Sigma) attack_Claws1
+2026.11.06 09:43:01 Debug      -  damage has been taken: 14, from source: projectile2Aimed
+2026.11.06 09:43:11 Debug      -  damage has been taken: 23, from source: projFireball2
+2026.11.06 09:43:11 Debug      -  damage has been taken: 14, from source: projFireball2
+2026.11.06 09:43:11 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:12 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:12 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:13 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:13 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:14 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:18 Debug      -  damage has been taken: 11, from source: projFireball2
+2026.11.06 09:43:18 Debug      -  damage has been taken: 7, from source: projFireball2
+2026.11.06 09:43:35 Debug      -  damage has been taken: 23, from source: projFireball1
+2026.11.06 09:43:35 Debug      -  damage has been taken: 14, from source: projFireball1
+2026.11.06 09:43:36 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:36 Debug      -  damage has been taken: 14, from source: projFireball1
+2026.11.06 09:43:36 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:37 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:43:39 Debug      -  damage has been taken: 8, from source: (dmg)
+2026.11.06 09:43:39 Debug      -  damage has been taken: 8, from source: (dmg)
+2026.11.06 09:44:10 Debug      -  damage has been taken: 11, from source: attack_Spit
+2026.11.06 09:44:10 Debug      -  damage has been taken: 11, from source: attack_Spit
+2026.11.06 09:44:11 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 09:44:12 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 09:44:17 Debug      -  damage has been taken: 11, from source: attack_Spit
+2026.11.06 09:44:17 Debug      -  damage has been taken: 11, from source: attack_Spit
+2026.11.06 09:44:19 Debug      -  damage has been taken: 53, from source: (Shamanic Compound) attack_GigaSlash
+2026.11.06 09:44:45 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:45 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:46 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:47 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:49 Debug      -  damage has been taken: 30, from source: (Voltbuster) attack_StaticField
+2026.11.06 09:44:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:44:51 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:51 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:52 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:52 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:44:52 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:52 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:52 Debug      -  damage has been taken: 3, from source: machinegunShooter2
+2026.11.06 09:44:53 Debug      -  damage has been taken: 3, from source: machinegunShooter1
+2026.11.06 09:44:53 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:44:55 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:44:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:44:57 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:44:58 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:00 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:01 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:02 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:04 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:05 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:06 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:45:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:45:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:45:11 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 09:45:15 Debug      -  damage has been taken: 82, from source: (Elder Manalyte) attack_GorillaSlam
+2026.11.06 09:45:17 Debug      -  Local controller dead, switching off.
+2026.11.06 09:46:37 Debug      -  ECLIPTICA - now fighting boss: AntKing(Clone) on phase: 0.8894554
+2026.11.06 09:47:12 Debug      -  damage has been taken: 39, from source: (Khepri) attack_Punch
+2026.11.06 09:48:55 Debug      -  damage has been taken: 17, from source: (Khepri) attack_Uppercut
+2026.11.06 09:49:32 Debug      -  damage has been taken: 18, from source: (Khepri) attack_ClawsSustained
+2026.11.06 09:49:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:49:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:49:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:49:39 Debug      -  damage has been taken: 18, from source: (Khepri) attack_ClawsSustained
+2026.11.06 09:50:00 Debug      -  damage has been taken: 29, from source: (Khepri) attack_Claws1
+2026.11.06 09:50:01 Debug      -  damage has been taken: 39, from source: (Khepri) attack_Punch
+2026.11.06 09:50:02 Debug      -  damage has been taken: 29, from source: (Khepri) attack_Claws1
+2026.11.06 09:50:03 Debug      -  damage has been taken: 49, from source: (Khepri) attack_HorizontalSweep
+2026.11.06 09:50:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:50:04 Debug      -  damage has been taken: 39, from source: (Khepri) attack_Punch
+2026.11.06 09:50:06 Debug      -  damage has been taken: 39, from source: (Khepri) attack_Punch
+2026.11.06 09:50:11 Debug      -  ECLIPTICA - now fighting boss: AntKingPhase2(Clone) on phase: 0.8894554
+2026.11.06 09:50:12 Debug      -  ECLIPTICA - now fighting boss: AntKingPhase2(Clone) on phase: 0.8894554
+2026.11.06 09:52:11 Debug      -  damage has been taken: 24, from source: (Khepri) attack_Claws1
+2026.11.06 09:52:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:26 Debug      -  damage has been taken: 24, from source: (Khepri) attack_Claws1
+2026.11.06 09:52:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:27 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:31 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:31 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:39 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:52:49 Debug      -  damage has been taken: 85, from source: 
+2026.11.06 09:52:59 Debug      -  damage has been taken: 49, from source: (Khepri) attack_Claws1
+2026.11.06 09:53:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:01 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:05 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:07 Debug      -  damage has been taken: 24, from source: (Khepri) attack_Claws1
+2026.11.06 09:53:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:08 Debug      -  damage has been taken: 33, from source: (Khepri) attack_HorizontalSweep
+2026.11.06 09:53:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:10 Debug      -  damage has been taken: 53, from source: (Khepri) attack_Pierce1
+2026.11.06 09:53:38 Debug      -  damage has been taken: 47, from source: (Khepri) attack_Pierce2
+2026.11.06 09:53:42 Debug      -  damage has been taken: 24, from source: (Khepri) attack_Claws1
+2026.11.06 09:53:42 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:43 Debug      -  damage has been taken: 33, from source: (Khepri) attack_HorizontalSweep
+2026.11.06 09:53:43 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:44 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:44 Debug      -  damage has been taken: 66, from source: (Khepri) attack_HorizontalSweep
+2026.11.06 09:53:45 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:46 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:47 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 09:53:47 Debug      -  damage has been taken: 15, from source: (Khepri) attack_Claws1
+2026.11.06 09:56:19 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 10:00:43 Debug      -  ECLIPTICA - now in stage: Stage_Hallow on phase: 0.9545124 as class: Spellsword
+2026.11.06 10:01:03 Debug      -  damage has been taken: 20, from source: attack_Spit
+2026.11.06 10:01:04 Debug      -  damage has been taken: 20, from source: attack_Spit
+2026.11.06 10:01:23 Debug      -  damage has been taken: 29, from source: (Shamanic Compound) attack_GigaSlam
+2026.11.06 10:01:30 Debug      -  damage has been taken: 24, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 10:01:47 Debug      -  damage has been taken: 38, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 10:01:55 Debug      -  damage has been taken: 20, from source: attack_Spit
+2026.11.06 10:01:55 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 3, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 5, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 3, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 3, from source: (Black Chimera) beam2
+2026.11.06 10:01:56 Debug      -  damage has been taken: 3, from source: (Black Chimera) beam2
+2026.11.06 10:02:08 Debug      -  damage has been taken: 24, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 10:02:22 Debug      -  damage has been taken: 9, from source: (Peltapod Guard) attack_Punch
+2026.11.06 10:02:24 Debug      -  damage has been taken: 11, from source: projFireball2
+2026.11.06 10:02:30 Debug      -  damage has been taken: 27, from source: (Peltapod Guard) attack_MaceExplode
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam3
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam2
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam1
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam3
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam2
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam1
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 11, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam3
+2026.11.06 10:02:59 Debug      -  damage has been taken: 11, from source: (Black Chimera) beam3
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam2
+2026.11.06 10:02:59 Debug      -  damage has been taken: 11, from source: (Black Chimera) beam2
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam1
+2026.11.06 10:02:59 Debug      -  damage has been taken: 11, from source: (Black Chimera) beam1
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 11, from source: (Black Chimera) beam4
+2026.11.06 10:02:59 Debug      -  damage has been taken: 7, from source: (Black Chimera) beam3
+2026.11.06 10:02:59 Debug      -  damage has been taken: 6, from source: (Black Chimera) beam3
+2026.11.06 10:03:29 Debug      -  damage has been taken: 37, from source: (Peltapod Guard) attack_Uppercut
+2026.11.06 10:03:33 Debug      -  damage has been taken: 37, from source: (Peltapod Guard) attack_Uppercut
+2026.11.06 10:03:39 Debug      -  damage has been taken: 37, from source: (Peltapod Guard) attack_Kick
+2026.11.06 10:04:43 Debug      -  ECLIPTICA - now fighting boss: Bravera(Clone) on phase: 0.9545124
+2026.11.06 10:05:31 Debug      -  damage has been taken: 29, from source: p5
+2026.11.06 10:05:32 Debug      -  damage has been taken: 29, from source: p4
+2026.11.06 10:05:32 Debug      -  damage has been taken: 29, from source: p3
+2026.11.06 10:05:32 Debug      -  damage has been taken: 29, from source: p2
+2026.11.06 10:05:33 Debug      -  damage has been taken: 35, from source: (Bravera) attack_Stab
+2026.11.06 10:05:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:05:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:05:34 Debug      -  damage has been taken: 2, from source: (Bravera) stompHit
+2026.11.06 10:05:34 Debug      -  Local controller dead, switching off.
+2026.11.06 10:05:49 Debug      -  damage has been taken: 12, from source: gunshoot
+2026.11.06 10:05:49 Debug      -  damage has been taken: 12, from source: gunshoot
+2026.11.06 10:05:49 Debug      -  damage has been taken: 12, from source: gunshoot
+2026.11.06 10:05:52 Debug      -  damage has been taken: 12, from source: (Opton Guard) attack_Slash1
+2026.11.06 10:05:53 Debug      -  damage has been taken: 12, from source: (Opton Guard) attack_Slash1
+2026.11.06 10:06:29 Debug      -  damage has been taken: 24, from source: (Opton Guard) attack_Slash1
+2026.11.06 10:07:33 Debug      -  damage has been taken: 56, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:07:35 Debug      -  damage has been taken: 17, from source: (Bravera) attack_Stab
+2026.11.06 10:07:36 Debug      -  damage has been taken: 28, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:37 Debug      -  damage has been taken: 28, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:07:38 Debug      -  damage has been taken: 56, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:44 Debug      -  damage has been taken: 56, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:45 Debug      -  damage has been taken: 56, from source: (Bravera) attack_Slash1
+2026.11.06 10:07:53 Debug      -  ECLIPTICA - now fighting boss: BraveraPhase2(Clone) on phase: 0.9545124
+2026.11.06 10:07:53 Debug      -  ECLIPTICA - now fighting boss: Bravera(Clone) on phase: 0.9545124
+2026.11.06 10:07:53 Debug      -  ECLIPTICA - now fighting boss: BraveraPhase2(Clone) on phase: 0.9545124
+2026.11.06 10:08:23 Debug      -  damage has been taken: 66, from source: (Bravera) attack_SlashBig1
+2026.11.06 10:09:10 Debug      -  damage has been taken: 54, from source: (Bravera) attack_Slash2
+2026.11.06 10:09:11 Debug      -  damage has been taken: 54, from source: (Bravera) attack_Slash1
+2026.11.06 10:09:12 Debug      -  damage has been taken: 33, from source: (Bravera) attack_SlashBig1
+2026.11.06 10:09:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:09:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:09:14 Debug      -  damage has been taken: 33, from source: (Bravera) attack_SlashBig2
+2026.11.06 10:09:16 Debug      -  damage has been taken: 66, from source: (Bravera) attack_SlashBig2
+2026.11.06 10:09:16 Debug      -  damage has been taken: 43, from source: (Bravera) attack_SlashBig1
+2026.11.06 10:13:18 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 10:15:28 Debug      -  ECLIPTICA - now in stage: Stage_Gilgamesh on phase: 1 as class: Spellsword
+2026.11.06 10:16:39 Debug      -  ECLIPTICA - now fighting boss: Gilgamesh(Clone) on phase: 1
+2026.11.06 10:19:11 Debug      -  damage has been taken: 47, from source: lightningCast
+2026.11.06 10:19:12 Debug      -  damage has been taken: 1, from source: (Gilgamesh) LegLift
+2026.11.06 10:20:36 Debug      -  damage has been taken: 47, from source: lightningCast
+2026.11.06 10:20:59 Debug      -  damage has been taken: 117, from source: (Gilgamesh) LegLift
+2026.11.06 10:21:12 Debug      -  damage has been taken: 23, from source: lightningCast
+2026.11.06 10:21:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:21:15 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:21:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:21:30 Debug      -  damage has been taken: 47, from source: lightningCast
+2026.11.06 10:22:03 Debug      -  damage has been taken: 47, from source: lightningCast
+2026.11.06 10:22:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:22:19 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:22:21 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:23 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:25 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:26 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:28 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:30 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:32 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:34 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:36 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:37 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:41 Debug      -  damage has been taken: 15, from source: 
+2026.11.06 10:22:43 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:45 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:45 Debug      -  damage has been taken: 41, from source: lightningCast
+2026.11.06 10:22:46 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:22:51 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:22:53 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:55 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:57 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:22:58 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:00 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:02 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:04 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:06 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:07 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:09 Debug      -  damage has been taken: 77, from source: 
+2026.11.06 10:23:09 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:11 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:13 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:23:14 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:23:16 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:18 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:20 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:22 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:23:24 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:23:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:15 Debug      -  damage has been taken: 23, from source: lightningCast
+2026.11.06 10:24:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:17 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:18 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:20 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:24:56 Debug      -  damage has been taken: 53, from source: eyeLazer
+2026.11.06 10:24:57 Debug      -  damage has been taken: 26, from source: eyeLazer
+2026.11.06 10:25:17 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:25:19 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:25:21 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:25:23 Debug      -  damage has been taken: 26, from source: 
+2026.11.06 10:25:24 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:25:26 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:25:28 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:25:28 Debug      -  damage has been taken: 25, from source: (Gilgamesh) LegDrop
+2026.11.06 10:27:58 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase2(Clone) on phase: 1
+2026.11.06 10:27:58 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase2(Clone) on phase: 1
+2026.11.06 10:34:07 Debug      -  damage has been taken: 77, from source: (maurice) attack_Thunderclap
+2026.11.06 10:34:22 Debug      -  damage has been taken: 23, from source: attack_Spit
+2026.11.06 10:34:25 Debug      -  damage has been taken: 17, from source: (maurice) attack_Thunderclap
+2026.11.06 10:34:26 Debug      -  damage has been taken: 31, from source: (maurice) attack_poisonBite
+2026.11.06 10:34:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:27 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:28 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:29 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:29 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:30 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:31 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:32 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:32 Debug      -  damage has been taken: 34, from source: (maurice) attack_Thunderclap
+2026.11.06 10:34:32 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 10:34:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:37 Debug      -  damage has been taken: 24, from source: (maurice) attack_Thunderclap
+2026.11.06 10:34:39 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:40 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:41 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:42 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:44 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:45 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:46 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:47 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:49 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:34:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:01 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:03 Debug      -  damage has been taken: 35, from source: (maurice) attack_ThunderSlice2
+2026.11.06 10:35:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:05 Debug      -  damage has been taken: 35, from source: (maurice) attack_Thunderclap
+2026.11.06 10:35:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:15 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:18 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:19 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:20 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:24 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:27 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:27 Debug      -  damage has been taken: 20, from source: (maurice) attack_Thunderclap
+2026.11.06 10:35:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:31 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:35:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:36:37 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase3(Clone) on phase: 1
+2026.11.06 10:37:55 Debug      -  damage has been taken: 30, from source: 
+2026.11.06 10:37:57 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:37:59 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:00 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 10:38:06 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:08 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:10 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:36 Debug      -  damage has been taken: 15, from source: 
+2026.11.06 10:38:38 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 10:38:39 Debug      -  damage has been taken: 39, from source: 
+2026.11.06 10:38:39 Debug      -  damage has been taken: 39, from source: 
+2026.11.06 10:38:39 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:38:41 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:38:43 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 10:38:51 Debug      -  damage has been taken: 63, from source: lightningCast
+2026.11.06 10:39:51 Debug      -  damage has been taken: 81, from source: (Gilgamesh) BodyDrop
+2026.11.06 10:39:57 Debug      -  damage has been taken: 26, from source: eyeLazer
+2026.11.06 10:39:58 Debug      -  damage has been taken: 53, from source: eyeLazer
+2026.11.06 10:40:01 Debug      -  damage has been taken: 6, from source: lightningCast
+2026.11.06 10:41:22 Debug      -  damage has been taken: 11, from source: eyeLazer
+2026.11.06 10:41:31 Debug      -  damage has been taken: 22, from source: eyeLazer
+2026.11.06 10:42:07 Debug      -  damage has been taken: 42, from source: (Gilgamesh) BodyDrop
+2026.11.06 10:43:19 Debug      -  damage has been taken: 77, from source: 
+2026.11.06 10:43:30 Debug      -  damage has been taken: 15, from source: 
+2026.11.06 10:44:11 Debug      -  damage has been taken: 11, from source: 
+2026.11.06 10:44:14 Debug      -  damage has been taken: 39, from source: 
+2026.11.06 10:44:14 Debug      -  damage has been taken: 105, from source: (Gilgamesh) LegDrop
+2026.11.06 10:49:21 Debug      -  damage has been taken: 31, from source: lightningCast
+2026.11.06 10:49:21 Debug      -  damage has been taken: 31, from source: lightningCast
+2026.11.06 10:50:29 Debug      -  damage has been taken: 63, from source: lightningCast
+2026.11.06 10:50:29 Debug      -  damage has been taken: 63, from source: lightningCast
+2026.11.06 10:50:40 Debug      -  damage has been taken: 63, from source: lightningCast
+2026.11.06 10:52:02 Debug      -  damage has been taken: 50, from source: (Gilgamesh) consumeAOE
+2026.11.06 10:52:02 Debug      -  damage has been taken: 50, from source: (Gilgamesh) consumeAOE
+2026.11.06 10:52:02 Debug      -  damage has been taken: 50, from source: (Gilgamesh) consumeAOE
+2026.11.06 10:52:03 Debug      -  damage has been taken: 9, from source: (Gilgamesh) consumeAOE
+2026.11.06 10:52:48 Debug      -  ECLIPTICA - now in lobby
+2026.11.06 11:07:34 Debug      -  ECLIPTICA - now in stage: Stage_ProtoColony on phase: 0.1807212 as class: Shieldmage
+2026.11.06 11:08:00 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:01 Debug      -  damage has been taken: 9, from source: attack_icicle2
+2026.11.06 11:08:03 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:08:04 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:05 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:06 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:07 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:08:08 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:08 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:10 Debug      -  damage has been taken: 46, from source: (Peltapod) attack_Slam
+2026.11.06 11:08:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:08:13 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:15 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:16 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:16 Debug      -  damage has been taken: 5, from source: (Frostsac) frostBeam
+2026.11.06 11:08:16 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:08:17 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:08:17 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:08:21 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:08:33 Debug      -  damage has been taken: 30, from source: (Wheeliam) spinAttack
+2026.11.06 11:08:34 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:08:34 Debug      -  damage has been taken: 5, from source: attack_Spit
+2026.11.06 11:08:35 Debug      -  damage has been taken: 14, from source: (Acolyte) attack_Claws
+2026.11.06 11:08:37 Debug      -  damage has been taken: 14, from source: (Acolyte) attack_Claws
+2026.11.06 11:08:38 Debug      -  damage has been taken: 30, from source: (Wheeliam) spinAttack
+2026.11.06 11:08:40 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:08:40 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:41 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:41 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:42 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:43 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:43 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:43 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:08:44 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:44 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:08:46 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:10:11 Debug      -  damage has been taken: 20, from source: (Peltapod) attack_Smash
+2026.11.06 11:10:38 Debug      -  damage has been taken: 9, from source: attack_icicle
+2026.11.06 11:10:38 Debug      -  damage has been taken: 9, from source: attack_icicle2
+2026.11.06 11:10:38 Debug      -  damage has been taken: 9, from source: attack_icicle1
+2026.11.06 11:10:51 Debug      -  damage has been taken: 9, from source: attack_icicle1
+2026.11.06 11:10:51 Debug      -  damage has been taken: 9, from source: attack_icicle2
+2026.11.06 11:10:51 Debug      -  damage has been taken: 9, from source: attack_icicle
+2026.11.06 11:10:51 Debug      -  damage has been taken: 5, from source: attack_Spit
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:10:52 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:53 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:10:53 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:10:53 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:10:53 Debug      -  damage has been taken: 5, from source: attack_Spit
+2026.11.06 11:10:53 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:54 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:55 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:55 Debug      -  damage has been taken: 9, from source: attack_icicle
+2026.11.06 11:10:56 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:56 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:10:56 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:10:56 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:10:57 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:10:57 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:10:57 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:10:57 Debug      -  Local controller dead, switching off.
+2026.11.06 11:10:57 Debug      -  Local controller dead, switching off.
+2026.11.06 11:10:57 Debug      -  Local controller dead, switching off.
+2026.11.06 11:11:25 Debug      -  ECLIPTICA - now fighting boss: DarkMouth(Clone) on phase: 0.1807212
+2026.11.06 11:12:14 Debug      -  damage has been taken: 7, from source: attack_Spit (2)
+2026.11.06 11:12:15 Debug      -  damage has been taken: 7, from source: attack_Spit (1)
+2026.11.06 11:12:15 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:16 Debug      -  damage has been taken: 7, from source: attack_Spit (1)
+2026.11.06 11:12:16 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:17 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:18 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:19 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:20 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:20 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:21 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:22 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:23 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:24 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:12:24 Debug      -  damage has been taken: 4, from source: 
+2026.11.06 11:13:23 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 11:15:22 Debug      -  ECLIPTICA - now in stage: Stage_CrystalMines on phase: 0.2655103 as class: Shieldmage
+2026.11.06 11:16:07 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:16:07 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:07 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:07 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:16:07 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:09 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:16:10 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:10 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:16:10 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:10 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:16:10 Debug      -  damage has been taken: 5, from source: machinegunShooter2
+2026.11.06 11:16:13 Debug      -  damage has been taken: 5, from source: machinegunShooter1
+2026.11.06 11:17:13 Debug      -  damage has been taken: 10, from source: (Lavasac) FireBeam
+2026.11.06 11:18:46 Debug      -  damage has been taken: 9, from source: attack_icicle
+2026.11.06 11:18:46 Debug      -  damage has been taken: 9, from source: attack_icicle2
+2026.11.06 11:18:46 Debug      -  damage has been taken: 9, from source: attack_icicle1
+2026.11.06 11:18:48 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:50 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:50 Debug      -  damage has been taken: 9, from source: attack_icicle1
+2026.11.06 11:18:51 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:53 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:55 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:57 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:18:59 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:00 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:02 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:04 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:06 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:08 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:10 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:19:12 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:19:13 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:19:15 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:19:22 Debug      -  ECLIPTICA - now fighting boss: QueenBug(Clone) on phase: 0.2655103
+2026.11.06 11:19:52 Debug      -  damage has been taken: 16, from source: attack_AirSlash
+2026.11.06 11:19:52 Debug      -  damage has been taken: 6, from source: attack_AirSlash
+2026.11.06 11:19:52 Debug      -  damage has been taken: 16, from source: attack_AirSlash
+2026.11.06 11:19:52 Debug      -  damage has been taken: 6, from source: attack_AirSlash
+2026.11.06 11:20:16 Debug      -  damage has been taken: 33, from source: (Vesra) attack_Slam
+2026.11.06 11:20:30 Debug      -  damage has been taken: 20, from source: (Vesra) attack_ShieldBash
+2026.11.06 11:20:38 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:20:43 Debug      -  damage has been taken: 18, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 11:20:53 Debug      -  damage has been taken: 40, from source: (Peltapod) attack_Slam
+2026.11.06 11:21:09 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:21:10 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:21:31 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:21:33 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:21:50 Debug      -  damage has been taken: 17, from source: (Peltapod) attack_Smash
+2026.11.06 11:21:55 Debug      -  damage has been taken: 20, from source: (Vesra) attack_ShieldBash
+2026.11.06 11:21:57 Debug      -  damage has been taken: 32, from source: (Vesra) attack_Slash
+2026.11.06 11:21:58 Debug      -  damage has been taken: 20, from source: (Vesra) attack_ShieldBash
+2026.11.06 11:22:00 Debug      -  damage has been taken: 32, from source: (Vesra) attack_Slash
+2026.11.06 11:22:26 Debug      -  damage has been taken: 16, from source: attack_AirSlash
+2026.11.06 11:22:26 Debug      -  damage has been taken: 6, from source: attack_AirSlash
+2026.11.06 11:22:27 Debug      -  damage has been taken: 16, from source: attack_AirSlash
+2026.11.06 11:22:27 Debug      -  damage has been taken: 6, from source: attack_AirSlash
+2026.11.06 11:22:59 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 11:24:52 Debug      -  ECLIPTICA - now in stage: Stage_ProtoColony on phase: 0.3810747 as class: Shieldmage
+2026.11.06 11:26:53 Debug      -  damage has been taken: 19, from source: projectile1
+2026.11.06 11:26:55 Debug      -  damage has been taken: 15, from source: projFireball
+2026.11.06 11:26:55 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:01 Debug      -  damage has been taken: 15, from source: projFireball
+2026.11.06 11:27:01 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:01 Debug      -  damage has been taken: 15, from source: projFireball
+2026.11.06 11:27:01 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:02 Debug      -  damage has been taken: 13, from source: (Acolyte) attack_Claws
+2026.11.06 11:27:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:04 Debug      -  damage has been taken: 13, from source: (Acolyte) attack_Claws
+2026.11.06 11:27:05 Debug      -  damage has been taken: 16, from source: (Lizord) attack_slap
+2026.11.06 11:27:06 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:27:06 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:27:10 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:27:11 Debug      -  damage has been taken: 15, from source: projFireball
+2026.11.06 11:27:11 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:13 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:15 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:15 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:15 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:15 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:15 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:17 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:27 Debug      -  damage has been taken: 15, from source: projFireball
+2026.11.06 11:27:27 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:28 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:28 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:29 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:29 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:29 Debug      -  damage has been taken: 8, from source: projFireball
+2026.11.06 11:27:29 Debug      -  damage has been taken: 6, from source: projectile1
+2026.11.06 11:27:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:30 Debug      -  damage has been taken: 10, from source: projectile1
+2026.11.06 11:27:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:30 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:30 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:30 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:31 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:32 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:27:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:33 Debug      -  damage has been taken: 3, from source: 
+2026.11.06 11:27:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:34 Debug      -  damage has been taken: 19, from source: projectile1
+2026.11.06 11:27:34 Debug      -  damage has been taken: 10, from source: projectile1
+2026.11.06 11:27:34 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:34 Debug      -  damage has been taken: 33, from source: projectile1
+2026.11.06 11:27:34 Debug      -  damage has been taken: 10, from source: projectile1
+2026.11.06 11:27:34 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:34 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:36 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:36 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:27:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:27:39 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:28:37 Debug      -  ECLIPTICA - now fighting boss: Steven(Clone) on phase: 0.3810747
+2026.11.06 11:29:14 Debug      -  damage has been taken: 36, from source: (Steven) SlashBasic
+2026.11.06 11:29:38 Debug      -  damage has been taken: 31, from source: (Steven) stabBase
+2026.11.06 11:30:03 Debug      -  damage has been taken: 36, from source: (Steven) SlashBasic
+2026.11.06 11:30:04 Debug      -  damage has been taken: 31, from source: (Steven) stabBase
+2026.11.06 11:30:17 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:17 Debug      -  damage has been taken: 36, from source: (Steven) SlashBasic
+2026.11.06 11:30:19 Debug      -  damage has been taken: 13, from source: (Steven) stabFire
+2026.11.06 11:30:19 Debug      -  damage has been taken: 31, from source: (Steven) stabBase
+2026.11.06 11:30:20 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:47 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:48 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:48 Debug      -  damage has been taken: 36, from source: (Steven) SlashBasic
+2026.11.06 11:30:49 Debug      -  damage has been taken: 13, from source: (Steven) stabFire
+2026.11.06 11:30:49 Debug      -  damage has been taken: 31, from source: (Steven) stabBase
+2026.11.06 11:30:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:54 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:55 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:30:59 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:30:59 Debug      -  damage has been taken: 36, from source: (Steven) SlashBasic
+2026.11.06 11:31:04 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:31:05 Debug      -  damage has been taken: 18, from source: (Steven) SlashFire
+2026.11.06 11:32:36 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 11:34:20 Debug      -  ECLIPTICA - now in stage: Stage_BalboaRuins on phase: 0.4804621 as class: Shieldmage
+2026.11.06 11:34:46 Debug      -  damage has been taken: 45, from source: (Voltbuster) attack_StaticField
+2026.11.06 11:35:05 Debug      -  damage has been taken: 10, from source: attack_icicle
+2026.11.06 11:35:05 Debug      -  damage has been taken: 10, from source: attack_icicle2
+2026.11.06 11:35:07 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:08 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:09 Debug      -  damage has been taken: 3, from source: (Voltbuster) attack_StaticField
+2026.11.06 11:35:10 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:11 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:11 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:12 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:12 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:14 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:14 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:14 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:14 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:15 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:15 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:16 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 11:35:16 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:22 Debug      -  damage has been taken: 11, from source: projectile1Aimed
+2026.11.06 11:35:22 Debug      -  damage has been taken: 11, from source: projectile1Aimed
+2026.11.06 11:35:22 Debug      -  damage has been taken: 11, from source: projectile1Aimed
+2026.11.06 11:35:26 Debug      -  damage has been taken: 48, from source: (Peltapod) attack_Slam
+2026.11.06 11:35:27 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:29 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:29 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:29 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:29 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:29 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:30 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:30 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:30 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:30 Debug      -  damage has been taken: 28, from source: projectile2Giga
+2026.11.06 11:35:30 Debug      -  damage has been taken: 18, from source: projectile2Giga
+2026.11.06 11:35:30 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:43 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:45 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:45 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:46 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:47 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:48 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:49 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:49 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:51 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:51 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:54 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:54 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:55 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:35:55 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:57 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:35:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:35:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:00 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 11:36:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:01 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 11:36:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:05 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:49 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:49 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:49 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:49 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:49 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:50 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:50 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 11:36:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:51 Debug      -  damage has been taken: 9, from source: (Lavasac) FireBeam
+2026.11.06 11:36:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:52 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:57 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:57 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:36:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:01 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:01 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:05 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:05 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:37:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:38:04 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:38:04 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:38:06 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:38:06 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:38:07 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:38:07 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:38:09 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:38:09 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:38:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:38:10 Debug      -  damage has been taken: 23, from source: (Observer) CannonFire
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:38:10 Debug      -  Local controller dead, switching off.
+2026.11.06 11:40:25 Debug      -  ECLIPTICA - now fighting boss: Middleman(Clone) on phase: 0.4804621
+2026.11.06 11:41:30 Debug      -  damage has been taken: 28, from source: (Middleman) attack_dashing
+2026.11.06 11:41:34 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash2
+2026.11.06 11:42:22 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash1
+2026.11.06 11:42:31 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash2
+2026.11.06 11:42:31 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash1
+2026.11.06 11:42:57 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash1
+2026.11.06 11:43:06 Debug      -  damage has been taken: 17, from source: (Middleman) attack_Slash1
+2026.11.06 11:43:16 Debug      -  damage has been taken: 23, from source: (Middleman) LaserHit
+2026.11.06 11:43:17 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:18 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:19 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:43:24 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:44:35 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 11:50:40 Debug      -  ECLIPTICA - now in stage: Stage_Hallow on phase: 0.5798343 as class: Shieldmage
+2026.11.06 11:51:11 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:51:11 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:51:14 Debug      -  damage has been taken: 19, from source: (Lizord) attack_slap
+2026.11.06 11:51:20 Debug      -  damage has been taken: 34, from source: (Wheeliam) spinAttack
+2026.11.06 11:51:22 Debug      -  damage has been taken: 34, from source: (Wheeliam) spinAttack
+2026.11.06 11:51:42 Debug      -  damage has been taken: 34, from source: (Wheeliam) spinAttack
+2026.11.06 11:51:44 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:51:44 Debug      -  damage has been taken: 23, from source: projectile1
+2026.11.06 11:51:44 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:51:44 Debug      -  damage has been taken: 60, from source: (Wheeliam) spinAttack
+2026.11.06 11:51:47 Debug      -  damage has been taken: 10, from source: projectile1
+2026.11.06 11:51:47 Debug      -  Local controller dead, switching off.
+2026.11.06 11:52:09 Debug      -  damage has been taken: 23, from source: projectile1
+2026.11.06 11:52:09 Debug      -  damage has been taken: 13, from source: projectile1
+2026.11.06 11:52:15 Debug      -  damage has been taken: 23, from source: projectile1
+2026.11.06 11:52:15 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:52:25 Debug      -  damage has been taken: 17, from source: projFireball
+2026.11.06 11:52:25 Debug      -  damage has been taken: 9, from source: projFireball
+2026.11.06 11:52:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:52:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:52:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:52:32 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:52:32 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:52:35 Debug      -  damage has been taken: 40, from source: (Gildhorn) ChargeAura
+2026.11.06 11:52:50 Debug      -  damage has been taken: 40, from source: (Gildhorn) ChargeAura
+2026.11.06 11:53:26 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:53:28 Debug      -  damage has been taken: 37, from source: (Gildhorn) attack_Stomp
+2026.11.06 11:53:35 Debug      -  damage has been taken: 31, from source: (Manalyte) attack_Clap
+2026.11.06 11:53:37 Debug      -  damage has been taken: 23, from source: projectile1
+2026.11.06 11:53:37 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:53:37 Debug      -  damage has been taken: 41, from source: projectile1
+2026.11.06 11:53:37 Debug      -  damage has been taken: 13, from source: projectile1
+2026.11.06 11:53:41 Debug      -  damage has been taken: 41, from source: projectile1
+2026.11.06 11:53:41 Debug      -  damage has been taken: 7, from source: projectile1
+2026.11.06 11:53:41 Debug      -  damage has been taken: 41, from source: projectile1
+2026.11.06 11:53:41 Debug      -  damage has been taken: 13, from source: projectile1
+2026.11.06 11:53:41 Debug      -  damage has been taken: 6, from source: (Curious Creature) attack_Claws1
+2026.11.06 11:57:13 Debug      -  ECLIPTICA - now fighting boss: M41D(Clone) on phase: 0.5798343
+2026.11.06 11:57:48 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 11:57:58 Debug      -  damage has been taken: 18, from source: wavespark4
+2026.11.06 11:57:58 Debug      -  damage has been taken: 18, from source: wavespark5
+2026.11.06 11:57:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:58:07 Debug      -  damage has been taken: 87, from source: (M-41-D) attack_Stomp
+2026.11.06 11:58:12 Debug      -  damage has been taken: 87, from source: (M-41-D) attack_Stomp
+2026.11.06 11:58:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:58:17 Debug      -  damage has been taken: 87, from source: (M-41-D) attack_Stomp
+2026.11.06 11:58:18 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:58:24 Debug      -  damage has been taken: 9, from source: (M-41-D) attack_BrushHit_P1
+2026.11.06 11:58:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:58:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:58:27 Debug      -  damage has been taken: 28, from source: (M-41-D) attack_SlashRed
+2026.11.06 11:58:27 Debug      -  damage has been taken: 28, from source: (M-41-D) attack_SlashRed
+2026.11.06 11:58:54 Debug      -  damage has been taken: 9, from source: (M-41-D) attack_BrushHit_P1
+2026.11.06 11:58:57 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 11:59:17 Debug      -  damage has been taken: 1, from source: (M-41-D) attack_BrushHit_P1
+2026.11.06 11:59:29 Debug      -  damage has been taken: 9, from source: (M-41-D) attack_BrushHit_P1
+2026.11.06 11:59:32 Debug      -  damage has been taken: 18, from source: wavespark7
+2026.11.06 11:59:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:59:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:59:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 11:59:36 Debug      -  damage has been taken: 28, from source: (M-41-D) attack_SlashRed
+2026.11.06 11:59:47 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 11:59:57 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:00:04 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 12:00:04 Debug      -  damage has been taken: 29, from source: wavespark5
+2026.11.06 12:00:04 Debug      -  damage has been taken: 18, from source: wavespark5
+2026.11.06 12:00:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:08 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:00:08 Debug      -  damage has been taken: 17, from source: (Disruption Tower) attack_BrushHit
+2026.11.06 12:00:09 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:12 Debug      -  damage has been taken: 29, from source: wavespark3
+2026.11.06 12:00:12 Debug      -  damage has been taken: 18, from source: wavespark3
+2026.11.06 12:00:12 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 12:00:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:19 Debug      -  damage has been taken: 28, from source: (M-41-D) attack_SlashRed
+2026.11.06 12:00:20 Debug      -  damage has been taken: 28, from source: (M-41-D) attack_SlashRed
+2026.11.06 12:00:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:24 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:24 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:00:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:46 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:00:47 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:48 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:49 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:52 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:56 Debug      -  damage has been taken: 18, from source: wavespark8
+2026.11.06 12:00:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:00:58 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:00:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:01 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:02 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:06 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:08 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:01:18 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 12:01:19 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:24 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:27 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:01:36 Debug      -  damage has been taken: 85, from source: 
+2026.11.06 12:01:42 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:02:02 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:02:34 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:02:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:02:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:02:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:02:38 Debug      -  damage has been taken: 29, from source: wavespark4
+2026.11.06 12:02:38 Debug      -  damage has been taken: 18, from source: wavespark4
+2026.11.06 12:02:38 Debug      -  damage has been taken: 71, from source: (M-41-D) attack_hitCenter
+2026.11.06 12:02:44 Debug      -  damage has been taken: 104, from source: (M-41-D) attack_BrushHitCenter
+2026.11.06 12:02:44 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:02:45 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:02:46 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:02:47 Debug      -  damage has been taken: 29, from source: attack_spark
+2026.11.06 12:02:47 Debug      -  damage has been taken: 18, from source: attack_spark
+2026.11.06 12:02:56 Debug      -  damage has been taken: 104, from source: (M-41-D) attack_BrushHitCenter
+2026.11.06 12:02:56 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:03:02 Debug      -  damage has been taken: 87, from source: (M-41-D) attack_Stomp
+2026.11.06 12:03:03 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:04 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:05 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:07 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:03:13 Debug      -  damage has been taken: 29, from source: wavespark2
+2026.11.06 12:03:13 Debug      -  damage has been taken: 18, from source: wavespark2
+2026.11.06 12:03:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:17 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:21 Debug      -  damage has been taken: 1, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:03:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:24 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:25 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:26 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:29 Debug      -  damage has been taken: 1, from source: (M-41-D) attack_hitCenter
+2026.11.06 12:03:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:32 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:32 Debug      -  damage has been taken: 87, from source: (M-41-D) attack_Stomp
+2026.11.06 12:03:33 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:34 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:35 Debug      -  damage has been taken: 7, from source: (M-41-D) attack_BrushHit_P2
+2026.11.06 12:03:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:39 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:41 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:03:42 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:04:19 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 12:06:52 Debug      -  ECLIPTICA - now in stage: Stage_CopiedCity on phase: 0.6582171 as class: Shieldmage
+2026.11.06 12:07:08 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:09 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:09 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:10 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:10 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:10 Debug      -  damage has been taken: 6, from source: fireSpike
+2026.11.06 12:07:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:15 Debug      -  damage has been taken: 15, from source: projectile1Aimed
+2026.11.06 12:07:18 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:07:20 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:07:22 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:07:27 Debug      -  damage has been taken: 15, from source: projectile1Aimed
+2026.11.06 12:07:27 Debug      -  damage has been taken: 15, from source: projectile2Aimed
+2026.11.06 12:07:27 Debug      -  damage has been taken: 11, from source: (Curious Creature) attack_Claws1
+2026.11.06 12:07:28 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:07:29 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:29 Debug      -  damage has been taken: 11, from source: (Curious Creature) attack_Claws1
+2026.11.06 12:07:30 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:07:38 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 12:07:39 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:07:43 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 12:07:44 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:02 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:03 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:03 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:03 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:03 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:08:19 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:20 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:21 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:08:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:08:23 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:08:24 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:27 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:08:28 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:08:29 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:30 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:08:31 Debug      -  damage has been taken: 15, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:09:53 Debug      -  damage has been taken: 43, from source: proj_3
+2026.11.06 12:09:59 Debug      -  damage has been taken: 36, from source: (Gildhorn) ChargeAura
+2026.11.06 12:10:21 Debug      -  ECLIPTICA - now fighting boss: ConeHead(Clone) on phase: 0.6582171
+2026.11.06 12:10:56 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_Slash1
+2026.11.06 12:10:57 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:10:59 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_Slash1
+2026.11.06 12:11:08 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_Slash1
+2026.11.06 12:11:48 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_Slash1
+2026.11.06 12:11:49 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:12:24 Debug      -  damage has been taken: 36, from source: (Cone Head) attack_BigSlash
+2026.11.06 12:12:37 Debug      -  damage has been taken: 19, from source: (Cone Head) attack_Kick
+2026.11.06 12:12:40 Debug      -  damage has been taken: 19, from source: (Cone Head) attack_Kick
+2026.11.06 12:13:17 Debug      -  ECLIPTICA - now fighting boss: ConeHeadPhase2(Clone) on phase: 0.6582171
+2026.11.06 12:13:17 Debug      -  ECLIPTICA - now fighting boss: ConeHeadPhase2(Clone) on phase: 0.6582171
+2026.11.06 12:14:07 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashGreen
+2026.11.06 12:14:35 Debug      -  damage has been taken: 40, from source: (Cone Head) attack_StabRed
+2026.11.06 12:14:36 Debug      -  damage has been taken: 40, from source: (Cone Head) attack_StabGreen
+2026.11.06 12:14:41 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashRed
+2026.11.06 12:15:01 Debug      -  damage has been taken: 53, from source: (Cone Head) attack_GreenLight
+2026.11.06 12:15:16 Debug      -  damage has been taken: 44, from source: (Cone Head) attack_SlashBigRed
+2026.11.06 12:15:18 Debug      -  damage has been taken: 44, from source: (Cone Head) attack_SlashBigRed
+2026.11.06 12:15:24 Debug      -  damage has been taken: 40, from source: (Cone Head) attack_StabGreen
+2026.11.06 12:15:29 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashRed
+2026.11.06 12:15:39 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashRed
+2026.11.06 12:16:35 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashGreen
+2026.11.06 12:16:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:16:36 Debug      -  damage has been taken: 23, from source: (Cone Head) attack_SlashRed
+2026.11.06 12:16:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:17:36 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 12:19:24 Debug      -  ECLIPTICA - now in stage: Stage_CrystalMines on phase: 0.7501695 as class: Shieldmage
+2026.11.06 12:19:46 Debug      -  damage has been taken: 13, from source: proj3
+2026.11.06 12:19:46 Debug      -  damage has been taken: 21, from source: proj5
+2026.11.06 12:19:46 Debug      -  damage has been taken: 13, from source: proj5
+2026.11.06 12:19:54 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:54 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:54 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:54 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:54 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:55 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:55 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:55 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:55 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:19:56 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:19:56 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:19:57 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:19:58 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:19:59 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:00 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:00 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:01 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:02 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:03 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:03 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:04 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:05 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:06 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:06 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:20:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:12 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:20:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:15 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:15 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:16 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:20:17 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:21:04 Debug      -  damage has been taken: 15, from source: projectile2Aimed
+2026.11.06 12:21:06 Debug      -  damage has been taken: 15, from source: projectile1Aimed
+2026.11.06 12:21:06 Debug      -  damage has been taken: 18, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:21:06 Debug      -  damage has been taken: 8, from source: projFireball2
+2026.11.06 12:21:07 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:21:08 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:08 Debug      -  damage has been taken: 12, from source: attack_Spit
+2026.11.06 12:22:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:12 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:13 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:14 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:22:14 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:14 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:18 Debug      -  damage has been taken: 29, from source: missile1
+2026.11.06 12:22:18 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:18 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:19 Debug      -  damage has been taken: 17, from source: (Elder Manalyte) attack_Backhand
+2026.11.06 12:22:19 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:19 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:19 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:19 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:19 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:20 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:20 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:20 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:20 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:20 Debug      -  damage has been taken: 5, from source: 
+2026.11.06 12:22:21 Debug      -  damage has been taken: 35, from source: (Shamanic Compound) attack_GigaSlam
+2026.11.06 12:22:22 Debug      -  damage has been taken: 17, from source: (Elder Manalyte) attack_Backhand
+2026.11.06 12:22:31 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 12:22:32 Debug      -  damage has been taken: 4, from source: machinegunShooter2
+2026.11.06 12:23:57 Debug      -  ECLIPTICA - now fighting boss: Corus(Clone) on phase: 0.7501695
+2026.11.06 12:24:22 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:23 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:23 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:23 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:24 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:24 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:25 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:25 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:26 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:26 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:26 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:27 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:27 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:28 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:28 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:29 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:29 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:29 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:30 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:30 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:31 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:31 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:31 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:32 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:32 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:33 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:33 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:34 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:34 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:24:48 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:48 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:48 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:49 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:49 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:50 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:50 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:24:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:25:50 Debug      -  ECLIPTICA - now fighting boss: CorusPhase2(Clone) on phase: 0.7501695
+2026.11.06 12:25:50 Debug      -  ECLIPTICA - now fighting boss: CorusPhase2(Clone) on phase: 0.7501695
+2026.11.06 12:28:35 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:28:35 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:28:36 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:28:36 Debug      -  damage has been taken: 6, from source: 
+2026.11.06 12:28:54 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 12:36:04 Debug      -  ECLIPTICA - now in stage: Stage_CalamityPalaceV2 on phase: 0.8429985 as class: Shieldmage
+2026.11.06 12:36:34 Debug      -  damage has been taken: 4, from source: machinegunShooter1
+2026.11.06 12:36:40 Debug      -  damage has been taken: 10, from source: projFireball
+2026.11.06 12:36:40 Debug      -  damage has been taken: 6, from source: projFireball
+2026.11.06 12:37:00 Debug      -  damage has been taken: 6, from source: projFireball1
+2026.11.06 12:37:47 Debug      -  damage has been taken: 19, from source: (Elder Manalyte) attack_Backhand
+2026.11.06 12:38:03 Debug      -  damage has been taken: 16, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 12:38:42 Debug      -  damage has been taken: 25, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 12:38:46 Debug      -  damage has been taken: 46, from source: (Gildhorn) ChargeAura
+2026.11.06 12:38:46 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:38:47 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:38:49 Debug      -  damage has been taken: 25, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 12:38:50 Debug      -  damage has been taken: 14, from source: proj3
+2026.11.06 12:39:00 Debug      -  damage has been taken: 14, from source: proj5
+2026.11.06 12:39:00 Debug      -  damage has been taken: 24, from source: (Peltapod Guard) attack_Kick
+2026.11.06 12:39:01 Debug      -  damage has been taken: 25, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 12:39:02 Debug      -  damage has been taken: 46, from source: (Gildhorn) ChargeAura
+2026.11.06 12:39:03 Debug      -  damage has been taken: 16, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 12:39:07 Debug      -  damage has been taken: 25, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:39:11 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:12 Debug      -  damage has been taken: 46, from source: (Peltapod Guard) attack_MaceExplode
+2026.11.06 12:39:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:12 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:39:36 Debug      -  damage has been taken: 11, from source: (Peltapod Guard) attack_Punch
+2026.11.06 12:40:13 Debug      -  ECLIPTICA - now fighting boss: GoldenGrouch(Clone) on phase: 0.8429985
+2026.11.06 12:41:34 Debug      -  damage has been taken: 59, from source: (Golden Grouch) cutter3
+2026.11.06 12:41:34 Debug      -  damage has been taken: 59, from source: (Golden Grouch) cutter2
+2026.11.06 12:41:34 Debug      -  damage has been taken: 59, from source: (Golden Grouch) cutter1
+2026.11.06 12:41:34 Debug      -  damage has been taken: 8, from source: (Golden Grouch) attack_Slash1
+2026.11.06 12:42:54 Debug      -  damage has been taken: 16, from source: 
+2026.11.06 12:42:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:43:43 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:43:53 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:13 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:15 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:15 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:18 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:19 Debug      -  damage has been taken: 22, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:25 Debug      -  damage has been taken: 71, from source: (Golden Grouch) attack_900Kick
+2026.11.06 12:44:25 Debug      -  damage has been taken: 45, from source: (Golden Grouch) attack_Kick
+2026.11.06 12:44:27 Debug      -  damage has been taken: 39, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:30 Debug      -  damage has been taken: 1, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:44:36 Debug      -  damage has been taken: 71, from source: (Golden Grouch) attack_900Kick
+2026.11.06 12:44:36 Debug      -  damage has been taken: 45, from source: (Golden Grouch) attack_Kick
+2026.11.06 12:45:03 Debug      -  damage has been taken: 71, from source: (Golden Grouch) attack_900Kick
+2026.11.06 12:45:05 Debug      -  damage has been taken: 39, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:45:07 Debug      -  damage has been taken: 39, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:45:11 Debug      -  damage has been taken: 1, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:45:12 Debug      -  damage has been taken: 1, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:45:13 Debug      -  damage has been taken: 1, from source: (Golden Grouch) attack_Punch
+2026.11.06 12:45:43 Debug      -  damage has been taken: 59, from source: (Golden Grouch) cutter1
+2026.11.06 12:45:44 Debug      -  damage has been taken: 59, from source: (Golden Grouch) cutter1
+2026.11.06 12:45:44 Debug      -  damage has been taken: 21, from source: (Golden Grouch) attack_Slash1
+2026.11.06 12:45:53 Debug      -  damage has been taken: 6, from source: (Golden Grouch) attack_judgementAOE
+2026.11.06 12:50:40 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 12:54:52 Debug      -  ECLIPTICA - now in stage: Stage_GMCarcon on phase: 0.9165314 as class: Shieldmage
+2026.11.06 12:55:39 Debug      -  damage has been taken: 13, from source: attack_Spit
+2026.11.06 12:55:46 Debug      -  damage has been taken: 68, from source: (Elder Manalyte) attack_GorillaSlam
+2026.11.06 12:55:53 Debug      -  damage has been taken: 34, from source: (Nightwalker) attack_Slash1
+2026.11.06 12:55:54 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:56:10 Debug      -  damage has been taken: 17, from source: projectile1Aimed
+2026.11.06 12:56:10 Debug      -  damage has been taken: 17, from source: projectile2Aimed
+2026.11.06 12:56:15 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:56:24 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:56:24 Debug      -  damage has been taken: 21, from source: (Elder Manalyte) attack_Backhand
+2026.11.06 12:56:24 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:56:25 Debug      -  damage has been taken: 28, from source: (Peltapod Guard) attack_MaceSlam
+2026.11.06 12:56:29 Debug      -  damage has been taken: 37, from source: (Shamanic Compound) attack_GigaSlash
+2026.11.06 12:56:46 Debug      -  damage has been taken: 17, from source: (Peltapod Guard) attack_MaceSpin
+2026.11.06 12:56:55 Debug      -  damage has been taken: 42, from source: (Mothersac) attack_smac
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:58 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:56:59 Debug      -  damage has been taken: 7, from source: 
+2026.11.06 12:57:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:57:00 Debug      -  damage has been taken: 16, from source: (Mothersac) attack_smac
+2026.11.06 12:57:00 Debug      -  Local controller dead, switching off.
+2026.11.06 12:57:18 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:57:19 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:57:21 Debug      -  damage has been taken: 21, from source: (Big Sigma) attack_Claws1
+2026.11.06 12:57:43 Debug      -  damage has been taken: 34, from source: (Nightwalker) attack_Slash2
+2026.11.06 12:57:43 Debug      -  damage has been taken: 34, from source: (Nightwalker) attack_Slash1
+2026.11.06 12:57:44 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:45 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:46 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:47 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:47 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:48 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:49 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 12:57:53 Debug      -  damage has been taken: 21, from source: ([Missing Key "e_M41DPillar"]) damage2
+2026.11.06 12:58:46 Debug      -  ECLIPTICA - now fighting boss: Oone(Clone) on phase: 0.9165314
+2026.11.06 12:59:47 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 12:59:47 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 12:59:49 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:50 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:52 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:54 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:54 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 12:59:54 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 12:59:55 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 12:59:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 12:59:56 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:00:03 Debug      -  damage has been taken: 8, from source: gunshoot
+2026.11.06 13:01:12 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash7
+2026.11.06 13:01:13 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:25 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:27 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:34 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:35 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:36 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:37 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:38 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:39 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:40 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:01:52 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:52 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:54 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:56 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:01:58 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:02:02 Debug      -  damage has been taken: 12, from source: (O-One) atk_dash
+2026.11.06 13:02:04 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash7
+2026.11.06 13:02:08 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:02:09 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:02:10 Debug      -  damage has been taken: 25, from source: (O-One) attack_Slash1
+2026.11.06 13:02:10 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:03:23 Debug      -  ECLIPTICA - now in intermission
+2026.11.06 13:05:34 Debug      -  ECLIPTICA - now in stage: Stage_Gilgamesh on phase: 1 as class: Shieldmage
+2026.11.06 13:06:41 Debug      -  ECLIPTICA - now fighting boss: Gilgamesh(Clone) on phase: 1
+2026.11.06 13:08:44 Debug      -  damage has been taken: 25, from source: 
+2026.11.06 13:08:46 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:08:48 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:08:49 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:08:51 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:08:53 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:08:55 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:08:57 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:08:59 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:09:00 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:09:37 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:09:37 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:09:37 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:10:17 Debug      -  damage has been taken: 34, from source: lightningCast
+2026.11.06 13:10:21 Debug      -  damage has been taken: 70, from source: (Gilgamesh) LegLift
+2026.11.06 13:10:34 Debug      -  damage has been taken: 11, from source: (Gilgamesh) supaBeam
+2026.11.06 13:10:34 Debug      -  damage has been taken: 19, from source: (Gilgamesh) supaBeam
+2026.11.06 13:11:10 Debug      -  damage has been taken: 34, from source: lightningCast
+2026.11.06 13:12:06 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:12:19 Debug      -  damage has been taken: 25, from source: 
+2026.11.06 13:12:20 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:12:22 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:12:24 Debug      -  damage has been taken: 2, from source: 
+2026.11.06 13:12:24 Debug      -  damage has been taken: 45, from source: 
+2026.11.06 13:12:36 Debug      -  damage has been taken: 176, from source: (Gilgamesh) LegDrop
+2026.11.06 13:12:42 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase2(Clone) on phase: 1
+2026.11.06 13:12:42 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase2(Clone) on phase: 1
+2026.11.06 13:15:19 Debug      -  damage has been taken: 1, from source: (maurice) attack_Thunderclap
+2026.11.06 13:15:21 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:15:22 Debug      -  damage has been taken: 1, from source: 
+2026.11.06 13:16:42 Debug      -  damage has been taken: 6, from source: (maurice) attack_Thunderclap
+2026.11.06 13:17:18 Debug      -  damage has been taken: 17, from source: attack_Spit
+2026.11.06 13:17:26 Debug      -  damage has been taken: 102, from source: 
+2026.11.06 13:18:40 Debug      -  ECLIPTICA - now fighting boss: GilgameshPhase3(Clone) on phase: 1
+2026.11.06 13:20:03 Debug      -  damage has been taken: 184, from source: (Gilgamesh) LegDrop
+2026.11.06 13:20:19 Debug      -  damage has been taken: 6, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:20:48 Debug      -  damage has been taken: 19, from source: 
+2026.11.06 13:20:52 Debug      -  damage has been taken: 3, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:21:10 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:21:10 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:21:16 Debug      -  damage has been taken: 45, from source: eyeLazer
+2026.11.06 13:21:21 Debug      -  damage has been taken: 29, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:21:34 Debug      -  damage has been taken: 8, from source: (dmg)
+2026.11.06 13:21:34 Debug      -  damage has been taken: 8, from source: (dmg)
+2026.11.06 13:21:34 Debug      -  damage has been taken: 14, from source: (dmg)
+2026.11.06 13:21:34 Debug      -  damage has been taken: 14, from source: (dmg)
+2026.11.06 13:21:51 Debug      -  damage has been taken: 28, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:22:36 Debug      -  damage has been taken: 10, from source: (Gilgamesh) nestZone
+2026.11.06 13:23:15 Debug      -  damage has been taken: 33, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:24:25 Debug      -  damage has been taken: 8, from source: proj1
+2026.11.06 13:24:30 Debug      -  damage has been taken: 177, from source: (Gilgamesh) BodyDrop
+2026.11.06 13:24:57 Debug      -  damage has been taken: 19, from source: eyeLazer
+2026.11.06 13:25:10 Debug      -  damage has been taken: 19, from source: 
+2026.11.06 13:25:20 Debug      -  damage has been taken: 19, from source: 
+2026.11.06 13:30:27 Debug      -  ECLIPTICA - now in lobby

@@ -1,0 +1,90 @@
+# For the CLI: copy to config.toml. Keep it private (chmod 600) - it holds API tokens.
+# The desktop app keeps its own copy in your config folder and rewrites it when you
+# press Save (comments are not preserved there) - you rarely need to edit it by hand.
+
+dry_run = false   # true = log what would be sent, send nothing
+
+[api]
+base_url = "https://api.openshock.app"   # change for a self-hosted instance
+custom_name = "Ecliptica"                # shown in the OpenShock control log
+
+[group]
+# true : YOUR damage/death shocks every enabled target below.
+# false: only targets with is_me = true.
+# Toggle live with the `shared on|off` command, or --shared-fate / --solo.
+#
+# Group play without a server: every player runs their own copy with the SAME
+# target list and shared_fate = true. Each copy only reacts to its own player's
+# log, so one hit fires once, from one machine, to everyone.
+shared_fate = false
+
+[log]
+# dir = "/home/you/.local/share/Steam/steamapps/compatdata/438100/pfx/drive_c/users/steamuser/AppData/LocalLow/VRChat/VRChat"
+only_in_fight = true   # ignore damage/death in the lobby and intermissions
+
+[damage]
+tick_max = 7       # hits <= this are DoT ticks (the log shows ticks of 1-7)
+burst_ms = 250     # real hits within this window of the first one merge into one shock
+cooldown_ms = 700  # min gap between shocks; a higher tier still breaks through
+
+[dot]
+enabled = true
+quiet_ms = 1200    # ticks are pooled into ONE shock once none arrive for this long
+max_hold_ms = 4000 # a DoT that never stops still flushes this often
+scale = 0.5        # pooled total x scale picks the tier (so 40 raw ticks ~ a 20 hit)
+
+# Tiers pick by damage (burst total, or scaled DoT total). Highest min_damage <= total wins.
+# Seen in a real session: 65% of damage lines are ticks (1-7); real hits are mostly 8-49,
+# ~10% are 50-99, and only a handful reach 100+. Tune the strengths!
+[[tiers]]
+name = "light"
+min_damage = 8
+kind = "vibrate"   # shock | vibrate | sound
+intensity = 40
+duration_ms = 300
+
+[[tiers]]
+name = "medium"
+min_damage = 25
+kind = "shock"
+intensity = 12
+duration_ms = 400
+
+[[tiers]]
+name = "heavy"
+min_damage = 50
+kind = "shock"
+intensity = 25
+duration_ms = 700
+
+[[tiers]]
+name = "crushing"
+min_damage = 100
+kind = "shock"
+intensity = 40
+duration_ms = 1000
+
+[death]
+kind = "shock"
+intensity = 35
+duration_ms = 1500
+debounce_ms = 1500  # the game prints the death line 3-6 times
+suppress_ms = 3000  # ignore damage right after dying
+
+[limits]            # hard ceilings for everything, including death and `test`
+max_intensity = 50
+max_duration_ms = 3000
+
+# Tokens can be scoped to specific shockers and given an expiry in OpenShock.
+[[targets]]
+name = "me"
+token = "PASTE_API_TOKEN"
+shockers = ["SHOCKER-UUID"]
+is_me = true
+
+# [[targets]]
+# name = "friend"
+# token = "THEIR_SCOPED_TOKEN"
+# shockers = ["THEIR-SHOCKER-UUID"]
+# max_intensity = 30      # per-target ceiling (can only lower the global one)
+# max_duration_ms = 1500
