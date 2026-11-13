@@ -74,10 +74,58 @@ function textInput(obj, key, { nullable = false, placeholder = '' } = {}) {
   return inp;
 }
 
+// Custom dropdown instead of a native <select>: on Linux (WebKitGTK) native selects are drawn by
+// GTK, which ignores the page's colours and gives light-on-white text in dark mode.
 function selectInput(obj, key, options) {
-  const sel = h('select', {}, options.map(([v, label]) => h('option', { value: v, selected: obj[key] === v }, label)));
-  sel.addEventListener('change', () => { obj[key] = sel.value; markDirty(); });
-  return sel;
+  const labelOf = v => (options.find(([o]) => o === v) || options[0])[1];
+  const btn = h('button', { type: 'button', class: 'dd-btn', 'aria-haspopup': 'listbox', 'aria-expanded': 'false' }, labelOf(obj[key]));
+  const list = h('ul', { class: 'dd-list', role: 'listbox', hidden: true });
+  const wrap = h('div', { class: 'dd' }, btn, list);
+  let active = -1;
+  const items = options.map(([v, label]) => h('li', { class: 'dd-item', role: 'option', 'data-v': v }, label));
+  items.forEach((li, i) => {
+    li.addEventListener('mousedown', e => { e.preventDefault(); pick(i); });
+    li.addEventListener('mousemove', () => highlight(i));
+    list.append(li);
+  });
+  function highlight(i) {
+    active = i;
+    items.forEach((li, n) => li.classList.toggle('active', n === i));
+  }
+  function open() {
+    closeDropdowns(wrap);
+    list.hidden = false;
+    btn.setAttribute('aria-expanded', 'true');
+    highlight(Math.max(0, options.findIndex(([o]) => o === obj[key])));
+  }
+  function close() { list.hidden = true; btn.setAttribute('aria-expanded', 'false'); }
+  function pick(i) {
+    obj[key] = options[i][0];
+    btn.textContent = options[i][1];
+    close();
+    markDirty();
+  }
+  btn.addEventListener('click', () => (list.hidden ? open() : close()));
+  btn.addEventListener('blur', close);
+  btn.addEventListener('keydown', e => {
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp') {
+      e.preventDefault();
+      if (list.hidden) { open(); return; }
+      highlight((active + (e.key === 'ArrowDown' ? 1 : options.length - 1)) % options.length);
+    } else if ((e.key === 'Enter' || e.key === ' ') && !list.hidden) {
+      e.preventDefault();
+      pick(active);
+    } else if (e.key === 'Escape') close();
+  });
+  return wrap;
+}
+
+function closeDropdowns(except) {
+  document.querySelectorAll('.dd').forEach(d => {
+    if (d === except) return;
+    d.querySelector('.dd-list').hidden = true;
+    d.querySelector('.dd-btn').setAttribute('aria-expanded', 'false');
+  });
 }
 
 function checkInput(obj, key) {
@@ -99,7 +147,7 @@ const fields = (...kids) => h('div', { class: 'fields' }, ...kids);
 function renderTiers(root) {
   root.append(h('p', { class: 'hint' },
     'A hit (or several hits landing together) picks the highest tier whose minimum damage it reaches. ' +
-    'DoT ticks are pooled first and use the same tiers - see the Damage tab.'));
+    'DoT ticks are pooled first and use the same tiers - see Damage over time below.'));
   const rows = cfg.tiers.map((t, i) => h('tr', {},
     h('td', {}, textInput(t, 'name')),
     h('td', {}, numInput(t, 'min_damage', { min: 1 })),
@@ -131,8 +179,9 @@ function renderTiers(root) {
 }
 
 function renderDamage(root) {
+  renderTiers(root);
   const dm = cfg.damage, dot = cfg.dot, lim = cfg.limits;
-  root.append(card('Hits',
+  root.append(card('Hit detection',
     fields(
       field('DoT tick max damage', numInput(dm, 'tick_max', { min: 0 }), 'hits at or below this count as DoT ticks'),
       field('Burst window ms', numInput(dm, 'burst_ms', { min: 0, step: 50 }), 'hits this close together merge into one shock'),
@@ -207,7 +256,7 @@ function renderAdvanced(root) {
 }
 
 function renderSettings() {
-  const panels = { tiers: renderTiers, damage: renderDamage, targets: renderTargets, advanced: renderAdvanced };
+  const panels = { damage: renderDamage, targets: renderTargets, advanced: renderAdvanced };
   for (const [name, fn] of Object.entries(panels)) {
     const root = $(`[data-panel="${name}"]`);
     root.replaceChildren();

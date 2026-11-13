@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light dark;
   --bg: #f6f6f9; --panel: #ffffff; --ink: #1c1c28; --muted: #6b6b80; --line: #dcdce6;
   --accent: #6c4ff0; --accent-ink: #fff; --ok: #1f9d55; --warn: #c27a00; --bad: #d03a3a; --info: #2c7be5;
 }
@@ -81,5 +82,17 @@ footer .spacer { flex: 1; }
 #toast.show { opacity: .95; }
 #toast.bad { background: var(--bad); color: #fff; }
 .fields.wide { grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); }
-table select { min-width: 108px; }
 table input[type=number] { min-width: 86px; }
+
+/* custom dropdown (see selectInput in app.js) */
+.dd { position: relative; min-width: 108px; }
+.dd-btn { width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 8px; text-align: left;
+          padding: 6px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); cursor: pointer; }
+.dd-btn::after { content: ""; width: 6px; height: 6px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted);
+                 transform: translateY(-2px) rotate(45deg); flex: none; }
+.dd-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: -1px; }
+.dd-list { position: absolute; z-index: 20; left: 0; right: 0; top: calc(100% + 2px); margin: 0; padding: 4px; list-style: none;
+           background: var(--panel); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; box-shadow: 0 6px 20px rgba(0,0,0,.35); }
+.dd-list[hidden] { display: none; }
+.dd-item { padding: 5px 8px; border-radius: 4px; cursor: pointer; }
+.dd-item.active { background: var(--accent); color: var(--accent-ink); }
